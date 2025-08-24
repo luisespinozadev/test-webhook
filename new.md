@@ -1,3 +1,0 @@
-# New note
-
-Update note
